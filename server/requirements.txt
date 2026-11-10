@@ -1,0 +1,8 @@
+# Central Scoreboard Web Interface
+Flask==3.1.0
+
+# HTTP Request Handling for Node Integration
+requests==2.32.3
+
+# WSGI Server for Production Stability (Optional but highly recommended)
+gunicorn==23.0.0
